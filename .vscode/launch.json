@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "/Users/ETRANTHYW/pah-m/index.html"
+            "file": "/Users/hieu/pah-m/index.html"
         }
     ]
 }
